@@ -11,4 +11,5 @@
   - Using the arrows on the keyboard, alternate between players.
   - HAVE FUN!
 ---
-![4RowGame](https://user-images.githubusercontent.com/52841881/194440103-f25a9995-22dd-4fae-a9e3-a6fbd8f3c51e.png)
+![Row-4](https://user-images.githubusercontent.com/52841881/196304563-c61b7909-ed5f-40ee-8e16-9fd4ff9ad992.png)
+
